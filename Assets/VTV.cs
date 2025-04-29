@@ -15,7 +15,7 @@ public class VTV : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        if (patente = )
+        if (patente = 0)
         {
             Debug.Log("Error, patente no ingresada. VTV no aprobada");
             return;
